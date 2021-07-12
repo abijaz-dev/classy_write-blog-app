@@ -60,7 +60,7 @@ A Blog web based application built in PHP MVC Laravel Framework with responsive 
   
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/abdullahijaz-dev/classy_write-blog-app/blob/main/LICENSE)
 
   
 ## Contributing
